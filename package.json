@@ -1,0 +1,36 @@
+{
+  "name": "eternal_tg_bot",
+  "version": "1.0.0",
+  "description": "A multi-functional bot that is capable of performing multiple tasks related to cards. currently this is only having stripe as gateway. New Updates will reveal the true potential of this bot and show the unbeateable powers of this bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "telegrambot",
+    "tgbot",
+    "tg",
+    "telegram",
+    "npm",
+    "eternalbot",
+    "eternal",
+    "eternal_bot",
+    "stripe",
+    "cc",
+    "cards",
+    "card"
+  ],
+  "author": "entity_anonymous",
+  "license": "ISC",
+  "dependencies": {
+    "binlookup": "^1.0.0",
+    "crypto": "^1.0.1",
+    "faker": "^5.5.3",
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.61.0",
+    "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "stripe": "^12.14.0"
+  }
+}
